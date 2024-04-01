@@ -43,6 +43,7 @@ header
 	
 #header_image{
 	height:200px;
+	max-width: 100%;
 	
 	background-image: url("../images/banner.jpg");
 	background-repeat:border-radius:12px;
@@ -50,9 +51,9 @@ header
 	
 	
 	 background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
 	
 	}
 	
